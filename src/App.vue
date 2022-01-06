@@ -16,6 +16,12 @@
     <div class="row justify-content-center my-4">
       <div class="col-8">
         <h1>Native HTML datepicker</h1>
+        <input class="w-100" type="date" name="" id="" v-model="date">
+      </div>
+    </div>
+    <div class="row justify-content-center my-4">
+      <div class="col-8">
+        <h1>Native HTML datepicker with bootstrap styling</h1>
         <input class="form-control w-100" type="date" name="" id="" v-model="date">
       </div>
     </div>
