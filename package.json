@@ -1,6 +1,9 @@
 {
   "name": "datepicker-example",
   "version": "0.1.0",
+   "engines": {
+    "node": "14.x"
+  },
   "private": true,
   "scripts": {
     "postinstall": "npm run build",
